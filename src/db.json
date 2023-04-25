@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "content": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "content": "Lorem ipsum dolor sit amet"
+    }
+  ]
+}
